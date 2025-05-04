@@ -1,0 +1,17 @@
+# Ignorar el entorno virtual
+venv/
+
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+
+# Archivo secreto con el token del bot
+.env
+
+# Configuraciones locales
+*.env
+.env
+
+# Archivos temporales
+*.log
+*.DS_Store
